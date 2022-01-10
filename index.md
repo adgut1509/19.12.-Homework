@@ -2,6 +2,6 @@
 
 
 <h2>Persona</h2>
-![Persona](/images/Persona "Persona")
+![Persona](\images\persona "Persona")
 
-s
+

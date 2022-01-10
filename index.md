@@ -26,6 +26,12 @@
 * **Condifence** - 4/5
 * **Stress Level** - 1/5
 
+His goal is to use LabVanced to record an online study on psychology with human participants. He has used other online research software, but his computer knowledge is quite limited. He is eager to learn, confident in his abilities, and not stressed (he is a psychologist, so he knows how to deal with that).
+
+He will use a user manual, which will be available on the university's website and targeted at its employees who need to know how to use LabVanced but do not have much experience/knowledge with similar programmes. 
+
+
+
 
 
 

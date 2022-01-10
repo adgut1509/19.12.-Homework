@@ -3,7 +3,7 @@
 
 <h2>Persona</h2>
 
-![Persona](\images\persona "Persona")
+![Persona](\images\persona.png "Persona")
 
 <h2>Persona</h2>
 

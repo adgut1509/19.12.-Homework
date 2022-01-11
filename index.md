@@ -29,7 +29,7 @@ He will use a user manual, which will be available on the university's website a
 The following is a section on how to publish and record a study in LabVanced.
 
 # Table of Contents
-1. [Introduction](#<h2>Introduction</h2>)
+1. [Introduction](#Introduction)
 2. [Step-by-step guide](#example2)
 3. [Glossary](#fourth-examplehttpwwwfourthexamplecom)
 4. [Useful links](#Links)

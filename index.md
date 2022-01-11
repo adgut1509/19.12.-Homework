@@ -1,7 +1,6 @@
-<h1>How to publish and record a study in Labvanced</h1>
+# How to publish and record a study in Labvanced
 
-
-<h2>Persona</h2>
+## Persona
 
 ![](images/persona5.png)
 
@@ -28,19 +27,19 @@ He will use a user manual, which will be available on the university's website a
 
 The following is a section on how to publish and record a study in LabVanced.
 
-# Table of Contents
-1. [Introduction](#Introduction)
-2. [Step-by-step guide](#example2)
-3. [Glossary](#fourth-examplehttpwwwfourthexamplecom)
-4. [Useful links](#Links)
+## <h2>Table of contents</h2>
+  - [<h2>Introduction</h2>](#h2introductionh2)
+  - [<h2>Step-by-step guide</h2>](#h2step-by-step-guideh2)
+  - [<h2>Glossary</h2>](#h2glossaryh2)
+  - [<h2>Useful links</h2>](#h2useful-linksh2)
 
-<h2>Introduction</h2>
+## <h2>Introduction</h2>
 
 Labvanced is a platform on which you can create online experiments.
 
 In this guide, you will learn how to publish and record a study you have created.
 
-<h2>Step-by-step guide</h2>
+## <h2>Step-by-step guide</h2>
 
 Go to the Labvanced homepage and on the menu on the left-hand side click on 
 *My Studies*.
@@ -95,13 +94,13 @@ You have published your study. To invite participants to your study, you can cop
 
 ![](images/1212.png)
 
-<h2>Glossary</h2>
+## <h2>Glossary</h2>
 
 **Variable** - any factor that can be manipulated, controlled for, or measured in an experiment
 
 **Wizard** - a help feature of a software package that automates complex tasks by asking the user a series of easy-to-answer questions.
 
-<h2>Useful links</h2>
+## <h2>Useful links</h2>
 
 [Labvanced homepage](https://www.labvanced.com/)
 

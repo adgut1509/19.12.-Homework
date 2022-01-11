@@ -91,11 +91,15 @@ Click the *Next* button. Now you are in the *Confirm & Publish* section. Here yo
 
 ![](images/14.png)
 
-You have published your study. 
+You have published your study. To invite participants to your study, you can copy and send them the link. 
+
+![](images/1212.png)
 
 <h2>Glossary</h2>
 
+**Variable** - any factor that can be manipulated, controlled for, or measured in an experiment
 
+**Wizard** - a help feature of a software package that automates complex tasks by asking the user a series of easy-to-answer questions.
 
 <h2>Useful links</h2>
 

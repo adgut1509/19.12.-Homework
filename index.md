@@ -63,7 +63,35 @@ Here you can also set the minimum and maximum duration of your study and give it
 
 ![](images/51515.png)
 
-Next, return to the *Publish & Record* section. Click on the icon next to "Variable Check: Not confirmed. 
+Next, return to the *Publish & Record* section. Click on the icon next to *Variable Check: Not confirmed*.
+
+All you need to do here is click the button to confirm variables.
+
+![](images/77.png)
+
+Next, once again return to the *Publish & Record* section. Click on the icon next to *Data Recording: Not enabled*.
+
+Here click the button to enable recordings. 
+
+![](images/333.png)
+
+Next, return to the *Publish & Record* section. Click the button to review and publish your study.
+
+![](images/111.png)
+
+You should see a publishing wizard with three sections. In the *Recruiting options* section, you can decide if you want to use a password protection for your study.
+
+![](images/12.png)
+
+Click the *Next* button. Now you are in the *License Selection*. Here you need to select *Use my current license: Lab/Department License*. To browse other options, you can also click *Explore more license options*.
+
+![](images/13.png)
+
+Click the *Next* button. Now you are in the *Confirm & Publish* section. Here you need to accept all three terms and conditions. Then, click the *Publish* button.
+
+![](images/14.png)
+
+You have published your study. 
 
 <h2>Glossary</h2>
 

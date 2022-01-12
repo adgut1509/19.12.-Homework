@@ -79,7 +79,7 @@ You should see a publishing wizard with three sections. In the *Recruiting optio
 
 ![](images/12.png)
 
-Click the *Next* button. Now you are in the *License Selection*. Here, you need to select *Use my current license: Lab/Department License*. To browse other options, you can also click *Explore more license options*.
+Click the *Next* button. Now you are in the *License Selection* section. Here, you need to select *Use my current license: Lab/Department License*. To browse other options, you can also click *Explore more license options*.
 
 ![](images/13.png)
 

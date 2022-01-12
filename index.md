@@ -9,12 +9,10 @@
 * **Company name** - Adam Mickiewicz University in Poznań
 * **Company size** - 5000
 * **Industry** - psychology, education
-----------------
 * **Age** - 48
 * **Gender** - male
 * **Income** - PLN 96 000 a year
 * **Education level** - PhD
----------------
 * **Experience with research software** - 2/5
 * **Computer knowledge** - 2/5
 * **Documentation use** - 2/5

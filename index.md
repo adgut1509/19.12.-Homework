@@ -55,7 +55,7 @@ In this section, you need to do two things:
 1. Add at least one keyword. To do it, click on the keyword that you want to add in the drop-down menu in the *Keywords* section.
 2. In the *Author or Affiliation* section, write your name or the name of the institution you are affiliated with.
 
-Here you can also set the minimum and maximum duration of your study and give it a description. However, that is not obligatory.
+Here, you can also set the minimum and maximum duration of your study and give it a description. However, that is not obligatory.
 
 ![](images/51515.png)
 
@@ -67,7 +67,7 @@ All you need to do here is click the button to confirm variables.
 
 Next, once again return to the *Publish & Record* section. Click on the icon next to *Data Recording: Not enabled*.
 
-Here click the button to enable recordings. 
+Here, click the button to enable recordings. 
 
 ![](images/333.png)
 
@@ -79,11 +79,11 @@ You should see a publishing wizard with three sections. In the *Recruiting optio
 
 ![](images/12.png)
 
-Click the *Next* button. Now you are in the *License Selection*. Here you need to select *Use my current license: Lab/Department License*. To browse other options, you can also click *Explore more license options*.
+Click the *Next* button. Now you are in the *License Selection*. Here, you need to select *Use my current license: Lab/Department License*. To browse other options, you can also click *Explore more license options*.
 
 ![](images/13.png)
 
-Click the *Next* button. Now you are in the *Confirm & Publish* section. Here you need to accept all three terms and conditions. Then, click the *Publish* button.
+Click the *Next* button. Now you are in the *Confirm & Publish* section. Here, you need to accept all three terms and conditions. Then, click the *Publish* button.
 
 ![](images/14.png)
 

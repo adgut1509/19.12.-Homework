@@ -18,14 +18,14 @@
 * **Experience with research software** - 2/5
 * **Computer knowledge** - 2/5
 * **Documentation use** - 2/5
-* **Condifence** - 4/5
+* **Confidence** - 4/5
 * **Stress Level** - 1/5
 
 His goal is to use Labvanced to record an online study on psychology with human participants. He has used other online research software, but his computer knowledge is quite limited. He is eager to learn, confident in his abilities, and not stressed (he is a psychologist, so he knows how to deal with that).
 
 He will use a user manual, which will be available on the university's website and targeted at its employees who need to know how to use Labvanced but do not have much experience/knowledge with similar software. Particular steps will be covered in separate sections.
 
-The following is a section on how to publish and record a study in LabVanced.
+The following is a section on how to publish and record a study in Labvanced.
 
 ## Table of contents
   - [Introduction](#introduction)
@@ -41,7 +41,7 @@ In this guide, you will learn how to publish and record a study you have created
 
 ## Step-by-step guide
 
-Go to the Labvanced homepage and on the menu on the left-hand side click on 
+Go to the Labvanced homepage and on the menu on the left-hand side, click on 
 *My Studies*.
 
 ![](images/1001.png)
@@ -50,7 +50,7 @@ You should see the list of your studies. Double-click on the study you want to p
 
 ![](images/3.png)
 
-Now you should see the requirements to publish and record a study. By default, the study design is valid and you are the study owner. To fulfil the requirements, first, click on the icon next to *Description: No keyword(s), No affiliation*.
+Now you should see the requirements to publish and record a study. By default, the study design is valid, and you are its owner. To fulfil the requirements, first, click on the icon next to *Description: No keyword(s), No affiliation*.
 
 ![](images/43.png)
 

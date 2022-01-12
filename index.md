@@ -39,12 +39,11 @@ In this guide, you will learn how to publish and record a study you have created
 
 ## Step-by-step guide
 
-Go to the Labvanced homepage. On the menu on the left-hand side, click on 
-*My Studies*.
+Go to the Labvanced homepage. On the menu on the left-hand side, click *My Studies*.
 
 ![](images/1001.png)
 
-You should see the list of your studies. Double-click on the study you want to publish and record. Next, click on *Publish & Record* on the left-hand side menu.
+You should see the list of your studies. Double-click on the study you want to publish and record. Next, click *Publish & Record* on the left-hand side menu.
 
 ![](images/3.png)
 
